@@ -1,0 +1,20 @@
+#### Force HTTPS://WWW and remove trailing / from files ####
+
+RewriteEngine on
+
+## Remove trailing slash if not directory
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^error  error.php [L] 
+RewriteRule ^signin  signin.php [L] 
+RewriteRule ^signup  signup.php [L]
+RewriteRule ^signout  signout.php [L]
+RewriteRule ^forgot  forgot.php [L]
+RewriteRule ^movies  movies.php [L]
+RewriteRule ^series  series.php [L]
+RewriteRule ^profile  profile.php [L]
+RewriteRule ^search  search.php [L]
+RewriteRule ^movie/([a-zA-Z0-9_-]+) single-movie.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^serie/([a-zA-Z0-9_-]+) single-serie.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^page/([a-zA-Z0-9_-]+) page.php?id=$1&%{QUERY_STRING} [L]

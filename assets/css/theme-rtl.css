@@ -1,0 +1,112 @@
+/*------------------------------------------------------------
+ 1. Fonts Import
+--------------------------------------------------------------*/
+
+@import url(https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;900&display=swap);
+
+
+/*------------------------------------------------------------
+ 2. Styles
+--------------------------------------------------------------*/
+
+body, html {
+    font-family: Cairo,"Helvetica Neue",sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Cairo,"Helvetica Neue",sans-serif !important;
+}
+
+.uk-nav-header{
+	font-size: 13px !important;
+}
+
+.uk-nav-offcanvas .uk-nav-header{
+	background: transparent !important;
+    border-top: none !important;
+    box-shadow: none !important;
+}
+
+.uk-nav-offcanvas .uk-nav-sub{
+    border-top: none !important;
+    box-shadow: none !important;
+}
+
+.uk-nav-offcanvas > li > a{
+    border-bottom: none !important;
+    border-top: none !important;
+    box-shadow: none !important;
+}
+
+.uk-nav-offcanvas{
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+#tm-header .uk-button-large{
+	border-radius: 4px !important;
+}
+
+.uk-button-large{
+	border-radius: 4px !important;
+}
+
+#tm-right-section .uk-overlay-background{
+	text-align: right;
+}
+
+.uk-search-field{
+	padding-right: 30px !important;
+}
+
+#tm-right-section .single-rating{
+	direction: ltr;
+	margin-top: 5px !important;
+}
+
+.ion-ios-arrow-right:before{
+	content: "\f3d2" !important;
+}
+
+.uk-nav-parent-icon > .uk-parent > a:after{
+	content: "\f104";
+}
+
+.uk-form .uk-float-right{
+	float: right !important;
+}
+
+#tm-right-section .title .viewall{
+	    left: 0 !important;
+	    right: inherit !important;
+}
+
+#tm-right-section .viewall i{
+	        float: left;
+	        margin-right: 10px !important;
+
+}
+
+.loggednav .uk-button-small i{
+	margin-right: inherit !important;
+	margin-left: 6px !important;
+}
+
+.tm-avatar{
+	    margin-left: inherit !important;
+	    margin-right: 10px;
+}
+
+.loggednav{
+	    margin-left: 25px !important;
+	    margin-right: inherit !important;
+}
+
+.uk-form input[type="radio"], .uk-form input[type="checkbox"]{
+	margin-right: 0 !important;
+	margin-left: 4px !important;
+}
+
+.uk-subnav > * > * {
+    color: #999999 !important;
+}

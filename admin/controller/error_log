@@ -1,0 +1,119 @@
+[01-Nov-2022 01:19:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 214
+[01-Nov-2022 01:20:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 214
+[01-Nov-2022 01:23:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[01-Nov-2022 01:29:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 214
+[01-Nov-2022 10:05:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[01-Nov-2022 10:11:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 214
+[01-Nov-2022 10:17:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[01-Nov-2022 10:22:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[01-Nov-2022 10:27:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 28
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 28
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 31
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 31
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 35
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 35
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 41
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 41
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 46
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 46
+[01-Nov-2022 10:28:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 55
+[01-Nov-2022 10:28:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 61
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 71
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 71
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 76
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 76
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 81
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 81
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 86
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 86
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 96
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 96
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 105
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 105
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 118
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 118
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 139
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 139
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 148
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 148
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 161
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 161
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 163
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 163
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 179
+[01-Nov-2022 10:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 179
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 28
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 28
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 31
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 31
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 35
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 35
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 41
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 41
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 46
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 46
+[01-Nov-2022 10:29:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 55
+[01-Nov-2022 10:29:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 61
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 71
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 71
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 76
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 76
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 81
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 81
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 86
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 86
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 96
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 96
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 105
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 105
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 118
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 118
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 139
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 139
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 148
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 148
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 161
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 161
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 163
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 163
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Undefined variable: movie in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 179
+[01-Nov-2022 10:29:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.movie.view.php on line 179
+[08-Nov-2022 13:51:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[10-Nov-2022 12:24:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/spenserm/public_html/admin/functions.php on line 92
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 28
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 28
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 29
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 29
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 30
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 30
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 36
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 36
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 44
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 44
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 52
+[04-Dec-2022 00:24:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 52
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 28
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 28
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 29
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 29
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 30
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 30
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 36
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 36
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 44
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 44
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 52
+[04-Dec-2022 00:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 52
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 28
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 28
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 29
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 29
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 30
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 30
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 36
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 36
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 44
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 44
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Undefined variable: ad in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 52
+[04-Dec-2022 00:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/spenserm/public_html/admin/views/edit.ad.view.php on line 52
